@@ -28,6 +28,6 @@
 .packages
 build/
 .vscode/settings.json
-/android/libs
+# /android/libs
 /example/android/app/libs
-/ios/DeepAR.xcframework
+# /ios/DeepAR.xcframework
